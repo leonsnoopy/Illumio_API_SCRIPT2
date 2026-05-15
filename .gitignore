@@ -1,0 +1,13 @@
+# Git ignore for Illumio API Script project
+
+# Gemini/CLI temporary files
+.gemini/
+.geminiignore
+
+# Secrets (Always be careful!)
+*.env
+secrets.json
+
+# OS files
+.DS_Store
+Thumbs.db
