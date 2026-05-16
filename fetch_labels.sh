@@ -3,11 +3,11 @@
 # Illumio API - 獲取標籤腳本 (Bash 版)
 
 # --- 設定區域 ---
-PCE_FQDN="pce.my-company.com"
-PORT="8443"
-ORG_ID="1"
-API_KEY_ID="api_xxxxxxxxxxxx"
-API_SECRET="xxxxxxxxxxxxxxxx"
+PCE_FQDN="us-scp11.illum.io"
+PORT="443"
+ORG_ID="3277168"
+API_KEY_ID="api_1f0c26cc15118e356"
+API_SECRET="c7002032b4c749c57cc063ba50c797024e02b4bb4c3f9ef0353b0d0988d75992"
 
 # 構建基礎 URL
 BASE_URL="https://${PCE_FQDN}:${PORT}/api/v2"
